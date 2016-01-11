@@ -4,7 +4,8 @@
     "Alan James",
     "Kuba Wyrobek",
     "Mikael Berg",
-    "Alex Ivanov"
+    "Alex Ivanov",
+	"Kyle Mendes"
   ],
   "name": "js-schema",
   "description": "A simple and intuitive object validation library",
@@ -15,11 +16,11 @@
     "validation",
     "validator"
   ],
-  "version": "1.0.1",
-  "homepage": "https://github.com/molnarg/js-schema",
+  "version": "1.0.2",
+  "homepage": "https://github.com/fuzz-productions/js-schema",
   "repository": {
     "type": "git",
-    "url": "git@github.com:molnarg/js-schema.git"
+    "url": "git@github.com:fuzz-productions/js-schema.git"
   },
   "devDependencies": {
     "browserify": "*",
